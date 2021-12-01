@@ -80,6 +80,11 @@ ul {
   box-shadow: 0px 5px 10px -3px black;
   margin-top: 10px;
 }
+.right .content button:hover {
+  background-color: var(--Soft-Magneta);
+  color: white;
+  cursor: pointer;
+}
 .container .social {
   align-self: flex-end;
 }
@@ -97,9 +102,14 @@ ul {
 }
 .container .social i:first-child {
   padding-left: 13px;
-  padding-right: 7px;
+  padding-right: 8px;
 }
 .container .social i:last-child {
   padding-left: 12px;
+}
+.container .social i:hover {
+  color: #fa54c2;
+  border-color: #fa54c2;
+  cursor: pointer;
 }
 /*----------------------------------------------------------------  End Code */
