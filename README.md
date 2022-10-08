@@ -1,6 +1,6 @@
 - Overview:
-  - [Huddle Landing Page with Single Introductory Section Master](#the-challenge)
-  - [https://wella4life.github.io/Challenge_9_Easy/](#links)
+  - [Huddle Landing Page with Single Introductory Section Master]
+  - [https://wella4life.github.io/Challenge_9_Easy/]
   - ![](images/Finished-Desktop.jpg)
   - ![](images/Finished-Mobile.jpg)
 
